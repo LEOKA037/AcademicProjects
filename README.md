@@ -12,6 +12,10 @@ This repo contains the presentation PPTs and project files done by me as a part 
 - Reference files
 - Code files
 
+## :phone: Connect
+
+<img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fleoka1993.wixsite.com%2Fleoka">
+
 > [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://leoka1993.wixsite.com/leoka) 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:leo.ka1993@gmail.com)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](http://linkedin.com/in/leoka037)
