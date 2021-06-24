@@ -1,6 +1,6 @@
-# Acadmic Projects
+# Academic Projects
 
-<img alt="Website" src="https://img.shields.io/badge/owner-leoka-blue"> <img alt="Website" src="https://img.shields.io/badge/purpose-Acadmic Projects And Seminars-red">
+<img alt="Website" src="https://img.shields.io/badge/owner-leoka-blue"> <img alt="Website" src="https://img.shields.io/badge/purpose-Academic Projects And Seminars-red">
 
 This repo contains the presentation PPTs and project files done by me as a part of my academics.
 
